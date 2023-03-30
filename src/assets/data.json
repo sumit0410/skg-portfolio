@@ -1,0 +1,55 @@
+{
+    "projects": [
+      {
+        "date": "07/03/2022",
+        "title": "CHAT APP",
+        "description": "This is a Full Stack Chat App which is created using React.js, Node.js and MongoDB. In this app one can Sign Up or Log in, select a profile picture and start chatting with anyone he/she wants.",
+        "url": "https://github.com/sumit0410/chat-app",
+        "imgSrc": "https://assets.materialup.com/uploads/30850d6e-a7c9-4999-9b72-b5058766c02b/preview.jpg"
+      },
+  
+      {
+        "date": "11/05/2022",
+        "title": "BLOG APP",
+        "description": "This is a Full Stack Blog App which is created using React.js and Node.js. In this app one can Sign Up or Log in, can read the blogs and also like and comment on blogs",
+        "url": "https://github.com/sumit0410/blog-app",
+        "imgSrc": "https://www-static.cdn-one.com/cmsimages/en_what-is-a-blog-2.png"
+      },
+      {
+        "date": "15/07/2022",
+        "title": "SHOPPING CART",
+        "description": "This is the shopping cart app which is build using React and Redux toolkit. In this app we can add the product into cart and calculate the total price",
+        "url": "https://github.com/sumit0410/shopping-cart",
+        "imgSrc": "https://static.vecteezy.com/system/resources/previews/002/238/646/original/isolated-of-shopping-cart-icon-basket-symbol-eps10-free-vector.jpg"
+      },
+  
+      {
+        "date": "17/09/2022",
+        "title": "QUIZ APP",
+        "description": "This is a Quiz Application which is build using html, css and JavaScript. In this app one can give answers to simple questions and get the results as well, every question attatched to a timer as well",
+        "url": "https://github.com/sumit0410/quiz-app",
+        "imgSrc": "https://static.vecteezy.com/system/resources/previews/017/798/308/original/full-color-paper-cut-style-quiz-time-template-concept-illustration-flat-design-eps10-modern-graphic-element-for-landing-page-empty-state-ui-infographic-icon-banner-vector.jpg"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "PG LIFE",
+        "description": "This is a Full Stack Paying Guest app which is build using various web technologies mainly react, php and MySql. In this app one can Sign Up or Log in, search for the PG's in the respective cities and check them out",
+        "url": "https://github.com/sumit0410/PG-Life",
+        "imgSrc": "https://images.livspace-cdn.com/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/jas-1657179080-NnXAg/mbr-1657190156-S8bl9/01-br-1664372169-V7niT.jpg"
+      },
+      {
+        "date": "15/12/2022",
+        "title": "WEATHER APP",
+        "description": "This is a simple weather app build using React.js and Api. In this app one can search any city in the world and get to know about there weather using API  ",
+        "url": "https://github.com/sumit0410/weather-app",
+        "imgSrc": "https://assets.materialup.com/uploads/cfe42246-e49f-4166-91ce-246e253eae27/preview.jpg"
+      },
+      {
+        "date": "15/01/2023",
+        "title": "MUSIC PLAYER",
+        "description": "This is a simple Music Player app build using html, css and JavaScript. This app has few songs to listen, this app is only mobile specific.   ",
+        "url": "https://sumit0410.github.io/music-player-mobile/",
+        "imgSrc": "https://cdn.vox-cdn.com/thumbor/aqh01V_ynBv8hVMTZ3M8dtcikJc=/0x0:1200x800/1400x1400/filters:focal(600x400:601x401)/cdn.vox-cdn.com/uploads/chorus_asset/file/16022492/Screen_Shot_2019_04_10_at_11.45.32_AM.png"
+      }
+    ]
+  }
